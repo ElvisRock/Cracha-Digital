@@ -6,3 +6,6 @@ Desenvolver habilidades nas linguagens CSS(linguagem de folha de estilo), HTML(L
 ---------------------------------------------------------------------------------------------------
 ![](print-cracha.PNG)
 
+
+👔 [Meu Crachá Online](https://numpy.org/](https://elvisrock.github.io/Cracha-Digital/)https://elvisrock.github.io/Cracha-Digital/)
+
